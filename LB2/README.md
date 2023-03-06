@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-# M300 Leistungsbeurteilung 2
+# LB2
 Plattformübergreifende Dienste in ein Netzwerk integrieren
 
 ## Autor
