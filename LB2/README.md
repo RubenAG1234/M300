@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # M300 Leistungsbeurteilung 2
 Plattformübergreifende Dienste in ein Netzwerk integrieren
 
@@ -269,3 +270,6 @@ Die wichtigsten Befehle sind:
 ### Reflexion
 
 
+=======
+something
+>>>>>>> ab2b44697f3a86d3c85966366547e6a8f9506272
