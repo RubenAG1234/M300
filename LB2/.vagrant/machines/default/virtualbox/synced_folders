@@ -1,1 +1,1 @@
-{"virtualbox":{"/vagrant_data":{"guestpath":"/vagrant_data","hostpath":"C:/Users/aimok/M300/LB2/script","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"C:/Users/aimok/M300/LB2","disabled":false,"__vagrantfile":true}}}
+{"virtualbox":{"/var/www/html":{"guestpath":"/var/www/html","hostpath":"C:/Users/aimok/M300/LB2","disabled":false,"__vagrantfile":true}}}
