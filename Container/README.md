@@ -67,5 +67,3 @@ Testfälle
 | 3. Container ist abrufbar                                 | Container konnte abgerufen werden           | korrekt             |
 | 4. Reproduzierbarkeit                                     | Container wird genau gleich erstellt        | korrekt             |
 | 5. Container kann von jemand anderes auch erstellt werden | bei Silvan genau gleich erstellt            | korrekt             |
-
-[&uarr; nach oben](https://github.com/JenniLino/M300-Services/tree/main/M300_30-Container)
