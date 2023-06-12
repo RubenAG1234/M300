@@ -16,4 +16,3 @@ Testfälle
 | 4. Reproduzierbarkeit                                      | Kubernetes wird genau gleich erstellt       | korrekt             |
 | 5. Kubernetes kann von jemand anderes auch erstellt werden | bei Tim genau gleich erstellt               | korrekt             |
 
-[&uarr; nach oben](https://github.com/JenniLino/M300-Services/tree/main/M300_40-Kubernetes)
